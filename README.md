@@ -1,6 +1,6 @@
 # 2.2.3
 
-##Este ejercicio (2.2.3) trata sobre el README de un archivo HTML, en este caso del ejercicio 2.2.1
+##Este ejercicio (2.2.3) trata sobre el README. Pondré el ejercicio 2.2.1 antes como ejemplo
 
 ###Este documento HTML tiene lo siguiente
 
@@ -17,6 +17,6 @@ print ejemplo
 
 ###Tabla
 
-Cabecera A | Cabecera B
-Campo A0 | Campo B0
-Campo A1 | Campo B1
+|Cabecera A | Cabecera B|
+|Campo A0 | Campo B0|
+|Campo A1 | Campo B1|
