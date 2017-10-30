@@ -18,5 +18,6 @@ print ejemplo
 ###Tabla
 
 |Marca | Modelo|
+|------|-------|
 |Yamaha | MT-07|
 |Honda | CB650F|
